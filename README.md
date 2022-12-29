@@ -47,7 +47,8 @@ We use the Disney Plus Shows dataset
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>The main goal of this project is to recommend a stock to trade based on the analysis of volume, open, high, low, and close prices.</p>
+<p>In stock market recommendation, the aim is to recommend stocks according to previous day statistics and recommend shares based on the person perspective and type of investments. The recent trend in stock market recommendation technologies is the machine learning to predict stock values. Factors considered are open, close, low, high, volume</p>
 
 
 ### Built With
@@ -65,10 +66,6 @@ This section includes a list of platforms, frameworks and libraries that were ut
 ## Screenshots
 
 <h3> Results of Approach  </h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<h3> Results of Approach </h3>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
 
 
