@@ -1,7 +1,6 @@
 # Stock Market Prediction
 
 <h3> Group ID - 11 </h3>
-
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -14,15 +13,9 @@ We use the Disney Plus Shows dataset
     <br />
     <a href=https://github.com/AnjaniSriya/RecommendationSystem/blob/master/disney_plus_shows.csv><strong>Explore the dataset »</strong></a>
     <br />
-    <br />
-    <a href="https://share.streamlit.io/anjanisriya/recomendationsystem/index.py">View Demo</a>
-    ·
-    <a href="https://drive.google.com/drive/u/0/folders/1VFxzP_wiuZZ6fR1AC7iyxDyqodTkoW9P">Video Demo</a>
-    .
     <a href="https://github.com/AnjaniSriya/RecommendationSystem/blob/master/Disney_recomm.ipynb">Source Code</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -66,10 +59,10 @@ This section includes a list of platforms, frameworks and libraries that were ut
 ## Screenshots
 
 <h3> Results of Approach  </h3>
-![Screenshot]("C:\Users\Dell\Downloads\MicrosoftTeams-image (14).png")
-
-
-
+![111]("https://github.com/AnjaniSriya/ML_Project/blob/31e2daae59444f2eed2665a8bba2edd458cccf94/111.png")
+![222]("https://github.com/AnjaniSriya/ML_Project/blob/main/222.png")
+![333]("https://github.com/AnjaniSriya/ML_Project/blob/main/333.png")
+![444]("https://github.com/AnjaniSriya/ML_Project/blob/main/444.png")
 
 
 <!-- TEAM MEMBERS -->
