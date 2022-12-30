@@ -31,7 +31,7 @@ We use the Disney Plus Shows dataset
     <li>
       <a href="#Screenshots">Screenshots</a>
     </li>    
-    <li><a href="#WE ARE.......">WE ARE.......</a></li>
+    <li><a href="#WE-ARE.......">WE ARE.......</a></li>
   </ol>
 </details>
 
