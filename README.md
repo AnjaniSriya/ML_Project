@@ -66,13 +66,14 @@ This section includes a list of platforms, frameworks and libraries that were ut
 ## Screenshots
 
 <h3> Results of Approach  </h3>
+![Screenshot]("C:\Users\Dell\Downloads\MicrosoftTeams-image (14).png")
 
 
 
 
 
 <!-- TEAM MEMBERS -->
-## WE ARE.......
+## WE ARE...
 
 Name          | Reg.No:
 ------------- | -------------
