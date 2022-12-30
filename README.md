@@ -2,14 +2,9 @@
 
 <h3> Group ID - 11 </h3>
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Disney.png" alt="Logo">
-  </a>
- </div>
  <div align="center">
 <p align="center">
-We use the Disney Plus Shows dataset 
+We used the AdaniPorts dataset from the Nifty 50 Stocks Dataset
     <br />
     <a href=https://github.com/AnjaniSriya/ML_Project/blob/b6c9682c2cf2c2451b87a2b7074578024a263743/ADANIPORTS.csv><strong>Explore the dataset »</strong></a>
     <br />
